@@ -16,7 +16,12 @@ namespace entrypoint
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
+            //Application.Run(new Homepage());
+            Application.Run(new AdmissionStatus());
+            //Application.Run(new StudentApplicationForm());
+            //Application.Run(new PaymentForm());
+            //Application.Run(new ExamScoreForm());
         }
+
     }
 }
