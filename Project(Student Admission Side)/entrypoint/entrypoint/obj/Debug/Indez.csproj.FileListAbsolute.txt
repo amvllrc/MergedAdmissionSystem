@@ -1,0 +1,11 @@
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\bin\Debug\entrypoint.exe.config
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\bin\Debug\entrypoint.exe
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\bin\Debug\entrypoint.pdb
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\Indez.csproj.AssemblyReference.cache
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\entrypoint.Form1.resources
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\entrypoint.Form2.resources
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\entrypoint.Properties.Resources.resources
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\Indez.csproj.GenerateResource.cache
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\Indez.csproj.CoreCompileInputs.cache
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\entrypoint.exe
+C:\Users\Marcus B. Villarica\source\repos\Project\entrypoint\entrypoint\obj\Debug\entrypoint.pdb
